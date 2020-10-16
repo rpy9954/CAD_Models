@@ -1,2 +1,2 @@
 #  CAD Model is awesome project
-Kindly mention the steps .
+kindly mention the steps here that how you made it
